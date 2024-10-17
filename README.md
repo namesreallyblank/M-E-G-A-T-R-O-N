@@ -37,7 +37,7 @@ This project is a Python-based chatbot that utilizes the NVIDIA Llama-3.1-Nemotr
 
 4. **Set up your environment variables:**
 
-   Create a `.env` file in the root directory of the project and add your NVIDIA API key:
+   Obtain your NVIDIA Nemotron API key by visiting [NVIDIA Build](https://build.nvidia.com/nvidia/llama-3_1-nemotron-70b-instruct) and create a `.env` file in the root directory of the project to add your API key:
 
    ```plaintext
    NVIDIA_API_KEY=your_api_key_here
