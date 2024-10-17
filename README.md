@@ -18,8 +18,8 @@ This project is a Python-based chatbot that utilizes the NVIDIA Llama-3.1-Nemotr
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/nvidia-chatbot.git
-   cd nvidia-chatbot
+   git clone https://github.com/namesreallyblank/NVIDIA-3.1-Nemotron-CLI-Chatbot.git
+   cd NVIDIA-3.1-Nemotron-CLI-Chatbot
    ```
 
 2. **Create a virtual environment:**
@@ -46,3 +46,27 @@ This project is a Python-based chatbot that utilizes the NVIDIA Llama-3.1-Nemotr
 ## Usage
 
 Run the chatbot using the following command:
+
+```bash
+python main.py
+```
+
+- Type your prompts into the console.
+- Type `exit` to end the conversation.
+
+## Code Overview
+
+- **main.py**: Contains the main logic for the chatbot, including the chat loop and response generation.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- NVIDIA for providing the Llama-3.1-Nemotron-70B-Instruct model.
+- OpenAI for the API interface.
